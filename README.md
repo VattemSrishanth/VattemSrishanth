@@ -1,67 +1,108 @@
-# Hey, I'm Srishanth 👋
+<!-- ===================================================== -->
+<!--             PROFESSIONAL GITHUB PROFILE               -->
+<!-- ===================================================== -->
 
-### Full-Stack Developer | AI/ML Enthusiast
+<div align="center">
 
-I enjoy building practical applications, exploring modern technologies, and turning ideas into working projects.
+  <h1>Hey, I'm Vattem Srishanth 👋</h1>
 
-- 💻 Currently exploring modern web development and AI-powered applications.
-- 🤖 Interested in Machine Learning and intelligent systems.
-- 🚀 Always learning, building, and experimenting with new ideas.
+  <h3>Full-Stack Developer | AI/ML Enthusiast</h3>
 
----
+  <p>
+    Building practical applications, exploring intelligent systems,<br/>
+    and turning innovative ideas into real-world solutions.
+  </p>
 
-### 🌐 Connect With Me
+  <p>
+    <a href="https://www.linkedin.com/in/vattem-srishanth-bab60736a/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/VattemSrishanth">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]www.linkedin.com/in/vattem-srishanth-bab60736a)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VattemSrishanth)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+  <img src="https://komarev.com/ghpvc/?username=VattemSrishanth&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
 
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools & AI/ML**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+</div>
 
 ---
 
-### 📊 GitHub Statistics
+## 👨‍💻 About Me
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VattemSrishanth&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VattemSrishanth&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+I'm a developer passionate about creating useful software, learning emerging technologies, and solving problems through code.
+
+- 💻 Exploring full-stack web development.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 🚀 Building projects to turn ideas into working applications.
+- 📚 Continuously improving my development and problem-solving skills.
+- 🤝 Open to collaborating on interesting software and AI projects.
+
+---
+
+## 🧰 Technology Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript" alt="Programming languages"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VattemSrishanth&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="Frontend technologies"/>
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and database technologies"/>
+</p>
+
+### AI / ML & Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,git,github,vscode" alt="AI and developer tools"/>
 </p>
 
 ---
 
-<p align="center">
-  <i>Building, learning, and improving one project at a time.</i>
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VattemSrishanth&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VattemSrishanth&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used programming languages"/>
+
+  <br/><br/>
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=VattemSrishanth&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening full-stack development skills.
+- Exploring AI-powered applications and intelligent systems.
+- Building clean, maintainable, and user-friendly software.
+- Learning by building and improving real projects.
+
+---
+
+<div align="center">
+
+  ### Let's Build Something Great 🚀
+
+  <p>
+    <a href="https://www.linkedin.com/in/vattem-srishanth-bab60736a/">
+      Connect with me on LinkedIn
+    </a>
+  </p>
+
+  <sub>Learn continuously. Build thoughtfully. Improve every day.</sub>
+
+</div>
