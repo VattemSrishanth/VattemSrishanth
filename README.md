@@ -1,175 +1,111 @@
-<!-- ====================================================== -->
-<!--           VATTEM SRISHANTH | PROFILE README           -->
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--          VATTEM SRISHANTH | GITHUB PROFILE            -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090B14,35:25164D,70:5936B8,100:16B8C5&height=230&section=header&text=Vattem%20Srishanth&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%7C%20ARTIFICIAL%20INTELLIGENCE&descAlignY=60&descSize=13" alt="Developer portfolio header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10121F,45:43258A,100:13A9B7&height=210&section=header&text=Vattem%20Srishanth&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=16" alt="Vattem Srishanth profile banner"/>
 
-<br/>
+<p>
+Building practical applications, exploring intelligent systems, and turning ideas into reality.
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=B8A0FF&center=true&vCenter=true&width=650&lines=Building+useful+digital+experiences.;Exploring+AI%2FML+and+modern+web+technologies.;Turning+ideas+into+real+projects." alt="Developer tagline"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/vattem-srishanth-bab60736a/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-&nbsp;
-<a href="https://github.com/VattemSrishanth?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/></a>
-&nbsp;
-<a href="https://github.com/VattemSrishanth"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<p>
+<a href="https://www.linkedin.com/in/vattem-srishanth-bab60736a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/VattemSrishanth?tab=repositories"><img src="https://img.shields.io/badge/My%20Projects-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
+</p>
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
+## About Me
 
-## PROFILE / 01
+I'm a developer passionate about software development, Artificial Intelligence, and creating useful digital experiences.
 
-### Developer. Learner. Builder.
-
-I'm **Vattem Srishanth**, a developer interested in building practical software, exploring intelligent systems, and creating solutions through code.
-
-- Building modern web applications
-- Exploring Artificial Intelligence and Machine Learning
-- Improving problem-solving and software development skills
-- Learning through experimentation and real projects
-
-</td>
-<td width="40%" valign="top">
-
-## FOCUS / 02
-
-<img src="https://skillicons.dev/icons?i=react,typescript,python,nodejs,mongodb,git&perline=3&theme=dark" alt="Core technology icons"/>
-
-<br/>
-
-**Currently exploring**
-
-- Full-stack development
-- AI-powered applications
-- Clean software architecture
-
-</td>
-</tr>
-</table>
+- 💻 Exploring full-stack web development.
+- 🤖 Interested in AI, Machine Learning, and intelligent applications.
+- 🚀 Building projects to solve practical problems.
+- 📚 Continuously learning and improving my technical skills.
+- 🤝 Open to collaborating on interesting development projects.
 
 ---
 
-## TECHNICAL ARSENAL
+## Technical Skills
 
-<div align="center">
+### Programming Languages
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 — PROGRAMMING**
-
+<p>
 <img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript&theme=dark" alt="Programming languages"/>
+</p>
 
-</td>
-<td width="50%" valign="top">
+### Frontend Development
 
-**02 — FRONTEND**
-
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="Frontend technologies"/>
+</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### Backend & Databases
 
-**03 — BACKEND & DATA**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend and database technologies"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend and databases"/>
+### AI/ML & Developer Tools
 
-</td>
-<td width="50%" valign="top">
-
-**04 — TOOLS**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,sklearn&theme=dark" alt="Tools and machine learning"/>
-
-</td>
-</tr>
-</table>
-
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=sklearn,git,github,vscode&theme=dark" alt="AI and development tools"/>
+</p>
 
 ---
 
-## SELECTED WORK
+## GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/VattemSrishanth?tab=repositories">
-<img width="100%" src="https://img.shields.io/badge/01%20%20EXPLORE%20MY%20REPOSITORIES-View%20projects%20and%20experiments-21183D?style=for-the-badge&labelColor=21183D&color=7C5CFC" alt="Explore repositories"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VattemSrishanth&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E6EDF3" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VattemSrishanth&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3" alt="Most used languages"/>
 
 <br/><br/>
 
-Explore my repositories to discover my applications, experiments, and ongoing development work.
+<img width="75%" src="https://streak-stats.demolab.com?user=VattemSrishanth&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=9CA3AF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## GITHUB ANALYTICS
+## Contribution Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VattemSrishanth&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=B8A0FF&icon_color=22D3EE&text_color=E6EDF3" alt="GitHub overview"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VattemSrishanth&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=B8A0FF&text_color=E6EDF3" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="85%" src="https://streak-stats.demolab.com?user=VattemSrishanth&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=B8A0FF&sideLabels=9CA3AF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Contribution streak"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VattemSrishanth&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=22D3EE&area=true&hide_border=true" alt="GitHub contribution activity"/>
 
 </div>
 
 ---
 
-## CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution history"/>
-
-<sub>Every contribution is a step forward.</sub>
-
-</div>
-
----
+## What I'm Exploring
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### BUILD
+**Web Development**
 
-<img src="https://img.shields.io/badge/01-Development-21183D?style=flat-square&labelColor=21183D&color=8B5CF6" alt="Development"/>
-
-Modern applications and practical solutions.
+Building responsive and user-friendly applications.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### EXPLORE
+**Artificial Intelligence**
 
-<img src="https://img.shields.io/badge/02-AI%20%2F%20ML-122B35?style=flat-square&labelColor=122B35&color=22D3EE" alt="AI and ML"/>
-
-Intelligent systems and emerging technologies.
+Exploring machine learning and intelligent solutions.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### IMPROVE
+**Project Development**
 
-<img src="https://img.shields.io/badge/03-Learning-251C3D?style=flat-square&labelColor=251C3D&color=B8A0FF" alt="Continuous learning"/>
-
-Better code, better ideas, better results.
+Turning ideas into practical software.
 
 </td>
 </tr>
@@ -177,22 +113,18 @@ Better code, better ideas, better results.
 
 ---
 
+## Let's Connect
+
 <div align="center">
 
-## LET'S CONNECT
-
-Interested in technology, creative problem-solving, and building useful products.
+I'm always interested in learning, sharing ideas, and collaborating on meaningful projects.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/vattem-srishanth-bab60736a/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/vattem-srishanth-bab60736a/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 
 <br/><br/>
 
-<sub>Designed with intention · Built with curiosity · Driven by code</sub>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16B8C5,45:5936B8,100:090B14&height=120&section=footer" alt="Portfolio footer"/>
+<sub>Keep learning. Keep building. Keep improving.</sub>
 
 </div>
